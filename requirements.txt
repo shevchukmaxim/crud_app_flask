@@ -6,3 +6,4 @@ flask~=1.1.2
 flask-expects-json~=1.5.0
 psycopg2-binary
 flask_sqlalchemy
+Flask-Migrate~=2.6.0
